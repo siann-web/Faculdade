@@ -1,0 +1,24 @@
+header{
+    background: gold;
+    color: white;
+}
+nav {
+    background: gray;
+    font-weight: bold;
+}
+#content {
+    height: 200px;
+}
+footer{
+    background: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+#noticia {
+    font-size: 24px;
+    font-family: tahoma;
+    border: solid 1px gray;
+}
+#noticiasemfoto{
+    font-family: 'Tahoma';
+    font-size: 20px;
+}

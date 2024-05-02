@@ -1,0 +1,56 @@
+
+* {
+    text-align: center;
+}
+
+body {
+    font-family: 'Lemon Milk', monospace;
+    min-height: 500px;
+    background-image: url('https://st2.depositphotos.com/1031174/5660/i/600/depositphotos_56604559-stock-photo-blackboard.jpg');
+    background-color: #111;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+table {
+    border: 3px solid white;
+    border-collapse: collapse;
+}
+
+h1 {
+    color: red;
+}
+
+th, tr, td {
+    border: solid 3px grey;
+    color: yellowgreen;
+  font-family: 'Time News Roman', monospace;
+}

@@ -1,0 +1,27 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, monospace;
+}
+body{
+    background-color:blueviolet;
+    text-align: center;
+}
+h1 {
+    background-color: aliceblue;
+    text-align: center;
+    margin: 0 150px 5px 150px;
+    border-radius: 15px;
+}
+h2 {
+    text-align: center;
+    color:aqua;
+    background-color: rgba(0,0,139,0.5);
+    background-position: center;
+    margin: 0 200px 0 200px;
+    border-radius: 20px;
+}
+#botao1 , #botao2 , #botao3{
+background-color:white;
+color:blue;
+border: none;
+border-radius: 5px;
+}
